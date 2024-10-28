@@ -15,6 +15,11 @@ h1{
     color: white;
 }
 
+img{
+    width: 500px;
+    border-radius: 15px;
+}
+
 
 .navbar{
     height: 100px;
