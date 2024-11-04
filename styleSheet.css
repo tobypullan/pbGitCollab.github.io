@@ -6,8 +6,10 @@ ul{
 
 }
 
-h1{
-    font-style: italic;
+.homepagetitle{
+    font-size: 150px;
+    color:antiquewhite;
+
 }
 
 *{
@@ -50,6 +52,7 @@ table{
     width: 100%;
 
 }
+
 table, th, td {
     border:1px solid;
 }
