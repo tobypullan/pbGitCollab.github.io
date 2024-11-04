@@ -61,6 +61,6 @@ table, th, td {
     background-color: bisque;
 }
 
-li.indentedList {
+.indentedList {
     padding-left: 10px !important;
 }
