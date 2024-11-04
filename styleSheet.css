@@ -46,9 +46,12 @@ img{
     
 }
 
+table{
+    width: 100%;
+
+}
 table, th, td {
     border:1px solid;
-    width: 100%;
 }
 
 .navbar a:hover{
