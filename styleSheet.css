@@ -49,3 +49,7 @@ img{
 .navbar a:hover{
     background-color: bisque;
 }
+
+li.indentedList {
+    padding-left: 10px !important;
+}
