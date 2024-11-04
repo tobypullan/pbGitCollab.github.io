@@ -46,6 +46,10 @@ img{
     
 }
 
+table, th, td {
+    border:1px solid;
+}
+
 .navbar a:hover{
     background-color: bisque;
 }
